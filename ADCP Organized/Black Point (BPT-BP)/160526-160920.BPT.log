@@ -1,0 +1,153 @@
+[Z:\uvi_oceanlab_2016_working\adcp\adcp_software\py3_ADCP_SOFT\testroom\BP051601.prf]
+---------------------------------------------------------------------
+Number of measurements                0
+Number of checksum errors             0
+Time of first measurement             5/26/2016 4:00:00 PM
+Time of last measurement              9/20/2016 7:00:00 PM
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      3600 sec
+Number of cells                       15
+Cell size                             200 cm
+Average interval                      60 sec
+Measurement load                      50 %
+Transmit pulse length                 2.00 m
+Blanking distance                     0.50 m
+Compass update rate                   3600 sec
+Distance measurements                 DISABLED
+Wave measurements                     DISABLED
+Wave - Powerlevel                     LOW
+Wave - Interval                       21600 sec
+Wave - Number of samples              1024
+Wave - Sampling rate                  1 Hz
+Wave - Cell size                      4.00 m
+Analog input 1                        NONE
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            HIGH
+Coordinate system                     ENU
+Sound speed                           MEASURED
+Salinity                              35.0 ppt
+Distance between pings                60.01 m
+Number of beams                       3
+Number of pings per burst             2
+Software version                      1.37.04
+Deployment name                       BP0516
+Wrap mode                             OFF
+Deployment time                       5/26/2016 4:00:00 PM
+Comments                              Black Point Ciguatera ADCP deployment May 26 12:00pm AST
+System1                               111
+System2                               121
+System3                               28
+System4                               2622
+System5                               512
+System9                               16384
+System10                              96
+System11                              0
+System12                              0
+System13                              0
+System14                              3600
+System16                              15
+System17                              7089
+System22                              21600
+System28                              1
+System29                              1
+System30                              4
+System31                              15618 15646 15673 15699
+System32                              0
+System33                              0
+System34                              200
+System35                              219
+System36                              12851
+System38                              0
+System39                              0
+System40                              10
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+Start command                         Recorder deployment
+CRC download                          ON
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         AQD 1535
+Internal code version                 13
+Hardware revision                     60 (})
+Recorder size                         161 MByte
+Firmware version                      1.17
+Velocity range                        NORMAL
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       YES
+Compass                               YES
+Tilt sensor                           YES
+System 1                              1
+Head frequency                        600 kHz
+Serial number                         AQP 1287
+Transformation matrix                 1.5774 -0.7891 -0.7891
+                                      0.0000 -1.3662 1.3662
+                                      0.3677 0.3677 0.3677
+Pressure sensor calibration           0 0 6972 15143
+Number of beams                       3
+System5                               25 25 25 0
+System7                               -24602 -639 12806 54
+                                      -23472 302 12644 136
+System8                               0 0 -1
+                                      0 1 0
+                                      1 0 0
+System9                               0 0 -1
+                                      0 -1 0
+                                      -1 0 0
+System10                              0 -1 1 0
+System11                              0 -1 -1 0
+System13                              11847 18809 19217 26863
+System14                              -20300 -2282 11950 491
+                                      -19507 49 11846 35
+System15                              32767 587 237 587
+                                      30446 -141 511 -625
+                                      29941 57 48 -7
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              5461
+System18                              3600
+System19                              3600
+System20                              10000
+
+
+Current profile cell center distance from head (m)
+---------------------------------------------------------------------
+  1    2.50
+  2    4.50
+  3    6.50
+  4    8.50
+  5   10.50
+  6   12.50
+  7   14.50
+  8   16.50
+  9   18.50
+ 10   20.50
+ 11   22.50
+ 12   24.50
+ 13   26.50
+ 14   28.50
+ 15   30.50
+
+Data file format
+---------------------------------------------------------------------
+[Z:\uvi_oceanlab_2016_working\adcp\adcp_software\py3_ADCP_SOFT\testroom\BP051601.csv]
+ 1   DateTime                         
+ 2   Battery voltage                  (V)
+ 3   Heading                          (degrees)
+ 4   Pitch                            (degrees)
+ 5   Roll                             (degrees)
+ 6   Pressure                         (dbar)
+ 7   Temperature                      (degrees C)
+ 8   Analog input 1
+ 9   Analog input 2
+10   Speed cell 1                     (m/s)
+11   Direction cell 1                 (degrees)
+10-11 repeated for all cells in profile.
