@@ -1,4 +1,4 @@
-[E:\Documents\GitHub\acdp-fuzzy-journey\ADCP Organized\VS\VS2_0201.wpr]
+[E:\Documents\GitHub\acdp-fuzzy-journey\ADCP Organized\Viequez (Very Questionable Not started)\VS3_0101.wpr]
 ---------------------------------------------------------------------
 Number of wave bursts                 0
 Number of bad bursts                  0
@@ -33,11 +33,11 @@ Distance between pings                60.01 m
 Number of beams                       3
 Number of pings per burst             4
 Software version                      1.32
-Deployment name                       VS2_02
+Deployment name                       VS3_01
 Wrap mode                             OFF
-Deployment time                       8/2/2010 10:00:00 PM
-Comments                              Second deployment of Vieques Sound / Virgin Passage Transport Study
-                                      ADCP Moorin
+Deployment time                       3/5/2010 7:00:00 PM
+Comments                              First deployment of Vieques Sound / Virgin Passage Transport Study
+                                      ADCP Mooring
 System1                               56
 System2                               73
 System3                               14
@@ -74,7 +74,7 @@ CRC download                          ON
 
 Hardware configuration
 ---------------------------------------------------------------------
-Serial number                         AQD 1545
+Serial number                         AQD 1531
 Internal code version                 13
 Hardware revision                     }
 Recorder size                         161 MByte
@@ -90,15 +90,15 @@ Compass                               YES
 Tilt sensor                           YES
 System 1                              1
 Head frequency                        600 kHz
-Serial number                         AQP 1304
+Serial number                         AQP 1286   
 Transformation matrix                 1.5774 -0.7891 -0.7891
                                       0.0000 -1.3662 1.3662
                                       0.3677 0.3677 0.3677
-Pressure sensor calibration           0 0 6851 16235
+Pressure sensor calibration           0 0 6841 14864
 Number of beams                       3
 System5                               25 25 25 0
-System7                               -18554 657 11783 -104
-                                      -19644 352 11923 61
+System7                               -19184 -900 11761 196
+                                      -19507 859 11720 -82
 System8                               0 0 -1
                                       0 1 0
                                       1 0 0
@@ -107,12 +107,12 @@ System9                               0 0 -1
                                       -1 0 0
 System10                              0 -1 1 0
 System11                              0 -1 -1 0
-System13                              11847 18809 19217 26823
-System14                              -12368 -428 9736 304
-                                      -10535 281 9249 89
-System15                              32291 253 962 253
-                                      32767 -236 453 -496
-                                      32175 77 64 -12
+System13                              11847 18809 19217 26824
+System14                              -19317 584 11748 80
+                                      -16934 -192 11570 31
+System15                              32767 284 874 284
+                                      32302 -366 213 374
+                                      32113 -29 31 -9
                                       0 0 0 0
 System16                              0 0 0 0
 System17                              5461
@@ -123,7 +123,7 @@ System20                              10000
 Processing configuration
 ---------------------------------------------------------------------
 PdWaveBase Version                    3.38
-Processing method                     MLM
+Processing method                     MLM-AST
 Wave Coordinate System                Beam
 Spectrum Selected                     Optimized
 Wave Direction                        From
