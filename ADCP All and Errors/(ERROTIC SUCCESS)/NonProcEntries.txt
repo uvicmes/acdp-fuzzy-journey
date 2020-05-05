@@ -1,0 +1,28 @@
+FileStore\Prof_HinkBank Sept05-March06.prf 33
+FileStore\Wave_HinkBank Sept05-March06.prf 48
+FileStore\Prof_Grammanik Bnk East_Sept05-March06.prf 33
+FileStore\Wave_Grammanik Bnk East_Sept05-March06.prf 48
+FileStore\Prof_Grammanik Bnk East_FebApr05.prf 33
+FileStore\Wave_Grammanik Bnk East_FebApr05.prf 48
+FileStore\Prof_Grammanik Bnk East_MarJun06.prf 33
+FileStore\Wave_Grammanik Bnk East_MarJun06.prf 48
+FileStore\Prof_Grammanik Bnk East_JunOct06.prf 33
+FileStore\Wave_Grammanik Bnk East_JunOct06.prf 48
+FileStore\Prof_TigerSept05-March06.prf 33
+FileStore\Wave_TigerSept05-March06.prf 48
+FileStore\Prof_TigerFebMay05.prf 33
+FileStore\Wave_TigerFebMay05.prf 48
+FileStore\Prof_TigerMaySept05.prf 33
+FileStore\Wave_TigerMaySept05.prf 48
+FileStore\Prof_TigerMarJun06.prf 33
+FileStore\Wave_TigerMarJun06.prf 48
+FileStore\Prof_Grammanik Bnk East_JunOct06.prf 33
+FileStore\Wave_Grammanik Bnk East_JunOct06.prf 48
+FileStore\Prof_Grammanik Bnk_SPAG_ Jan2508_Apr2308.prf 33
+FileStore\Wave_Grammanik Bnk_SPAG_ Jan2508_Apr2308.prf 48
+FileStore\Prof_Tiger_ July0808_Oct0708.prf 33
+FileStore\Wave_Tiger_ July0808_Oct0708.prf 48
+FileStore\Prof_Grammanik Bnk_SPAG_ Jan2508_Apr2308.prf 33
+FileStore\Wave_Grammanik Bnk_SPAG_ Jan2508_Apr2308.prf 48
+FileStore\Prof_Grammanik Bnk SPAG_MarMay071.prf 33
+FileStore\Wave_Grammanik Bnk SPAG_MarMay071.prf 48

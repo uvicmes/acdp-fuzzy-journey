@@ -1,0 +1,36 @@
+============================================================
+Deployment   : TiJa07
+Current time : 1/17/2007 2:00:20 PM
+Start at     : 1/18/2007 6:00:00 PM
+Comment:
+Deployed 1/18/07 18:00
+------------------------------------------------------------
+Profile interval      (s) : 1800
+Number of cells           : 24
+Cell size             (m) : 1.50
+Average interval      (s) : 60
+Blanking distance     (m) : 0.51
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Measurement load      (%) : 100
+Power level               : HIGH-
+Compass upd. rate     (s) : 1800
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+File wrapping             : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 90.0
+Battery utilization   (%) : 95.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 160.163
+Memory required      (MB) : 1.0
+Vertical vel. prec (cm/s) : 0.7
+Horizon. vel. prec (cm/s) : 2.1
+------------------------------------------------------------
+AquaPro Version 1.27
+Copyright (C) 1997-2005 Nortek AS
+============================================================

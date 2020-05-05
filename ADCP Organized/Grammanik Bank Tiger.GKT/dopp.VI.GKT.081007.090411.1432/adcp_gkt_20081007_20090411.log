@@ -1,0 +1,79 @@
+============================================================
+Deployment   : TiOc08
+Current time : 10/6/2008 2:35:10 PM
+Start at     : 10/6/2008 2:35:00 PM
+Comment:
+1 meter cells
+200days
+Lithium Ion #0032 - ADCP #1413
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 36
+Cell size             (m) : 1.00
+Average interval      (s) : 60
+Blanking distance     (m) : 0.51
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Measurement load      (%) : 100
+Power level               : HIGH-
+Compass upd. rate     (s) : 1800
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+File wrapping             : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 200.0
+Battery utilization   (%) : 97.0
+Battery level         (V) : 11.9
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 157.824
+Memory required      (MB) : 1.6
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+AquaPro Version 1.27
+Copyright (C) 1997-2005 Nortek AS
+============================================================
+
+
+
+============================================================
+Deployment   : TiOc08
+Current time : 10/6/2008 2:36:34 PM
+Start at     : 10/7/2008 6:00:00 PM
+Comment:
+1 meter cells
+200days
+Lithium Ion #0032 - ADCP #1413
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 36
+Cell size             (m) : 1.00
+Average interval      (s) : 60
+Blanking distance     (m) : 0.51
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Measurement load      (%) : 100
+Power level               : HIGH-
+Compass upd. rate     (s) : 1800
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+File wrapping             : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 200.0
+Battery utilization   (%) : 97.0
+Battery level         (V) : 11.9
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 157.824
+Memory required      (MB) : 1.6
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+AquaPro Version 1.27
+Copyright (C) 1997-2005 Nortek AS
+============================================================

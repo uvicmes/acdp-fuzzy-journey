@@ -1,0 +1,44 @@
+============================================================
+Deployment   : TiAUG
+Current time : 8/11/2009 10:13:03 AM
+Start at     : 8/11/2009 6:00:00 PM
+Comment:
+Aqua Pro ver. 1.31
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 40
+Cell size             (m) : 1.00
+Average interval      (s) : 60
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 100
+Power level               : HIGH-
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Compass upd. rate     (s) : 1800
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+Serial output/TellTale    : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 190.0
+Battery utilization   (%) : 97.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 156.628
+Memory required      (MB) : 1.7
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+Instrument ID             : AQD 1531      
+Head ID                   : AQP 1286   
+Firmware version          : 1.13
+------------------------------------------------------------
+AquaPro Version 1.31
+Copyright (C) Nortek AS
+============================================================

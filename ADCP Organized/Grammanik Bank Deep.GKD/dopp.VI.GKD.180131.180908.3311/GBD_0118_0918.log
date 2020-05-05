@@ -1,0 +1,44 @@
+============================================================
+Deployment   : GBD118
+Current time : 1/30/18 2:14:45 PM
+Start at     : 1/31/18 12:00:00 PM
+Comment:
+Rick and Shaun deployment to Grammanik Bank Deep site 70m on Jan 31 2018 400kHz 
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 35
+Cell size             (m) : 2.00
+Blanking distance     (m) : 1.00
+Measurement load      (%) : 67
+Average interval      (s) : 60
+Power level               : HIGH
+Wave data collection      : DISABLED
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+TellTale                  : ON
+Acoustic modem            : ON
+Serial output             : ON
+Baud rate                 : 9600
+------------------------------------------------------------
+Assumed duration   (days) : 150.0
+Battery utilization   (%) : 92.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 9
+Recorder free space  (MB) : 8.973
+Memory required      (MB) : 1.2
+Vertical vel. prec (cm/s) : 1.1
+Horizon. vel. prec (cm/s) : 3.3
+------------------------------------------------------------
+Instrument ID             : AQD13311
+Head ID                   : AQP 8781
+Firmware version          : 3.40
+------------------------------------------------------------
+AquaPro Version 1.37.01
+Copyright (C) Nortek AS
+============================================================

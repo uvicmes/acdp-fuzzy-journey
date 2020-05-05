@@ -1,0 +1,91 @@
+============================================================
+Deployment   : GB8212
+Current time : 7/31/2012 3:52:34 PM
+Start at     : 8/2/2012
+Comment:
+time set to UTC
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 40
+Cell size             (m) : 1.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 100
+Average interval      (s) : 60
+Power level               : HIGH
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+Serial output/TellTale    : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 150.0
+Battery utilization   (%) : 97.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 158.041
+Memory required      (MB) : 1.3
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+Instrument ID             : AQD 1551
+Head ID                   : AQP 1303
+Firmware version          : 1.13
+------------------------------------------------------------
+AquaPro Version 1.34
+Copyright (C) Nortek AS
+============================================================
+
+
+
+============================================================
+Deployment   : GB8212
+Current time : 7/31/2012 8:34:44 PM
+Start at     : 8/2/2012
+Comment:
+Time at UTC
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 40
+Cell size             (m) : 1.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 100
+Average interval      (s) : 60
+Power level               : HIGH
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+Serial output/TellTale    : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 30.0
+Battery utilization   (%) : 19.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 158.041
+Memory required      (MB) : 0.3
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+Instrument ID             : AQD 1551
+Head ID                   : AQP 1303
+Firmware version          : 1.13
+------------------------------------------------------------
+AquaPro Version 1.34
+Copyright (C) Nortek AS
+============================================================

@@ -1,0 +1,95 @@
+============================================================
+Deployment   : HB0319
+Current time : 3/20/2019 7:02:30 PM
+Start at     : 3/21/2019 2:00:00 PM
+Comment:
+Site: Hind Bank, Depth: 41m (135’)
+Start: Mar 21, 2019. 14:00 GMT
+Dr. Nem
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 20
+Cell size             (m) : 2.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 50
+Average interval      (s) : 60
+Power level               : HIGH
+Wave data collection      : DISABLED
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+TellTale                  : OFF
+Acoustic modem            : OFF
+Serial output             : ON
+Baud rate                 : 9600
+------------------------------------------------------------
+Assumed duration   (days) : 180.0
+Battery utilization   (%) : 94.0
+Battery level         (V) : 11.9
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 158.407
+Memory required      (MB) : 0.9
+Vertical vel. prec (cm/s) : 0.7
+Horizon. vel. prec (cm/s) : 2.2
+------------------------------------------------------------
+Instrument ID             : AQD 1531
+Head ID                   : AQP 1286   
+Firmware version          : 1.17
+------------------------------------------------------------
+AquaPro Version 1.37.08
+Copyright (C) Nortek AS
+============================================================
+
+
+
+============================================================
+Deployment   : HB0319
+Current time : 3/20/2019 7:12:34 PM
+Start at     : 3/21/2019 2:00:00 PM
+Comment:
+Site: HindBank, Depth: 41m (135’)
+Start: Mar 21, 2019. 14:00 GMT
+Dr. Nem
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 20
+Cell size             (m) : 2.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 50
+Average interval      (s) : 60
+Power level               : HIGH
+Wave data collection      : DISABLED
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+TellTale                  : OFF
+Acoustic modem            : OFF
+Serial output             : ON
+Baud rate                 : 9600
+------------------------------------------------------------
+Assumed duration   (days) : 180.0
+Battery utilization   (%) : 94.0
+Battery level         (V) : 11.9
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 158.406
+Memory required      (MB) : 0.9
+Vertical vel. prec (cm/s) : 0.7
+Horizon. vel. prec (cm/s) : 2.2
+------------------------------------------------------------
+Instrument ID             : AQD 1531
+Head ID                   : AQP 1286   
+Firmware version          : 1.17
+------------------------------------------------------------
+AquaPro Version 1.37.08
+Copyright (C) Nortek AS
+============================================================

@@ -1,0 +1,44 @@
+============================================================
+Deployment   : GB1119
+Current time : 11/15/19 8:01:47 PM
+Start at     : 11/19/19 12:00:00 PM
+Comment:
+Richard Nemeth going to swap out the Grammanik Bank ADCP on 11/19/19
+------------------------------------------------------------
+Profile interval      (s) : 3600
+Number of cells           : 20
+Cell size             (m) : 2.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 50
+Average interval      (s) : 60
+Power level               : HIGH
+Wave data collection      : DISABLED
+Compass upd. rate     (s) : 3600
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+TellTale                  : OFF
+Acoustic modem            : OFF
+Serial output             : ON
+Baud rate                 : 9600
+------------------------------------------------------------
+Assumed duration   (days) : 180.0
+Battery utilization   (%) : 94.0
+Battery level         (V) : 12.1
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 160.973
+Memory required      (MB) : 0.9
+Vertical vel. prec (cm/s) : 0.7
+Horizon. vel. prec (cm/s) : 2.2
+------------------------------------------------------------
+Instrument ID             : AQD 1514
+Head ID                   : AQP 1318
+Firmware version          : 1.17
+------------------------------------------------------------
+AquaPro Version 1.37.01
+Copyright (C) Nortek AS
+============================================================

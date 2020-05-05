@@ -1,0 +1,151 @@
+[E:\Documents\GitHub\acdp-fuzzy-journey\ADCP Organized\Hind Bank.HBE\HB0617_recovered_from_nortek.wpr]
+---------------------------------------------------------------------
+Number of wave bursts                 0
+Number of bad bursts                  0
+Time of first measurement             12:00:00 AM
+Time of last measurement              12:00:00 AM
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      600 sec
+Number of cells                       20
+Cell size                             250 cm
+Average interval                      60 sec
+Measurement load                      100 %
+Transmit pulse length                 2.50 m
+Blanking distance                     1.00 m
+Compass update rate                   600 sec
+Distance measurements                 DISABLED
+Wave measurements                     DISABLED
+Wave - Powerlevel                     LOW
+Wave - Interval                       3600 sec
+Wave - Number of samples              1024
+Wave - Sampling rate                  0.75 Hz
+Wave - Cell size                      4.00 m
+Analog input 1                        NONE
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            HIGH
+Coordinate system                     ENU
+Sound speed                           MEASURED
+Salinity                              N/A
+Distance between pings                80.01 m
+Number of beams                       3
+Number of pings per burst             3
+Software version                      N/A
+Deployment name                       
+Wrap mode                             OFF
+Deployment time                       1/8/2018 2:53:14 PM
+Comments                              
+System1                               92
+System2                               169
+System3                               24
+System4                               3496
+System5                               512
+System9                               16384
+System10                              96
+System11                              0
+System12                              0
+System13                              0
+System14                              600
+System16                              20
+System17                              5908
+System22                              3600
+System28                              1
+System29                              1
+System30                              3
+System31                              15618 15646 15673 15699
+System32                              0
+System33                              0
+System34                              133
+System35                              262
+System36                              8567
+System38                              0
+System39                              0
+System40                              10
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+Start command                         None
+CRC download                          Unknown
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         AQD 0000
+Internal code version                 0
+Hardware revision                     A
+Recorder size                         0 MByte
+Firmware version                      
+Velocity range                        NORMAL
+Sync signal data out delay            0 sec
+Sync signal power down delay          0 sec
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       NO
+Compass                               NO
+Tilt sensor                           NO
+System 1                              0
+Head frequency                        400 kHz
+Serial number                         AQP 0000
+Transformation matrix                 1.5774 -0.7891 -0.7891
+                                      0.0000 -1.3662 1.3662
+                                      0.3677 0.3677 0.3677
+Pressure sensor calibration           0 0 0 0
+Number of beams                       3
+System5                               0 0 0 0
+System7                               0 0 0 0
+                                      0 0 0 0
+System8                               0 0 0
+                                      0 0 0
+                                      0 0 0
+System9                               0 0 0
+                                      0 0 0
+                                      0 0 0
+System10                              0 0 0 0
+System11                              0 0 0 0
+System13                              0 0 0 0
+System14                              0 0 0 0
+                                      0 0 0 0
+System15                              0 0 0 0
+                                      0 0 0 0
+                                      0 0 0 0
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              0
+System18                              0
+System19                              0
+System20                              0
+
+Processing configuration
+---------------------------------------------------------------------
+PdWaveBase Version                    3.38
+Processing method                     MLM-AST
+Wave Coordinate System                Beam
+Spectrum Selected                     Optimized
+Wave Direction                        From
+Beams Included                        1 2 3 4
+Number of Bins for Smoothing          64
+Start Frequency                       0.02 Hz
+End Frequency                         0.49 Hz
+Start Frequency AST                   0.02 Hz
+End Frequency AST                     0.99 Hz
+Frequency Step                        0.01 Hz
+Mounting Height                       0.50 m
+Directional Offset                    0.00 deg
+Pressure Offset                       0.00 dbar
+
+Current Data QC settings
+---------------------------------------------------------------------
+Low signal SNR threshold              3.0 dB
+Sidelobe rejection                    90.0% - SURFACE
+Beam rejection                        Use all beams
+Remove tilt effects                   ENABLED
+Compass offset                        0.0 deg
+Pressure Offset                       0.0 dbar
+Velocity variations rejection         5 #Std
+Echo spikes rejection                 70.0 dB
+
+Data file format

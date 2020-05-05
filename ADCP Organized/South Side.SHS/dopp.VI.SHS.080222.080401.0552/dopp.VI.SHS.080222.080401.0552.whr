@@ -1,0 +1,152 @@
+[E:\Documents\GitHub\acdp-fuzzy-journey\ADCP Organized\(OTHERS)\Feb22_08_1MHz_Southside.wpr]
+---------------------------------------------------------------------
+Number of wave bursts                 941
+Number of bad bursts                  0
+Time of first measurement             2/22/2008 6:01:01 PM
+Time of last measurement              4/2/2008 8:29:07 AM
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      1800 sec
+Number of cells                       25
+Cell size                             100 cm
+Average interval                      60 sec
+Measurement load                      38 %
+Transmit pulse length                 1.00 m
+Blanking distance                     0.50 m
+Compass update rate                   1800 sec
+Wave measurements                     ENABLED
+Wave - Powerlevel                     HIGH
+Wave - Interval                       3600 sec
+Wave - Number of samples              2048
+Wave - Sampling rate                  1 Hz
+Wave - SUV data collection            DISABLED
+Wave - Ice data collection            DISABLED
+Onboard wave processing               DISABLED
+Analog input 1                        NONE
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            HIGH
+Coordinate system                     ENU
+Sound speed                           MEASURED
+Salinity                              35.0 ppt
+Distance between pings                46.85 m
+Number of beams                       3
+Number of pings per burst             3
+Software version                      1.31
+Deployment name                       Fe2208
+Wrap mode                             OFF
+Deployment time                       2/22/2008 6:00:00 PM
+Comments                              First deployment of 1MHz AWAC Southside 25 meters target depth 84 feet
+System1                               92
+System2                               73
+System3                               24
+System4                               2047
+System5                               512
+System9                               0
+System10                              0
+System11                              0
+System12                              0
+System13                              0
+System14                              1800
+System16                              25
+System17                              5890
+System22                              3600
+System28                              1
+System29                              0
+System30                              4
+System31                              15618 15646 15673 15699
+System32                              6
+System33                              29490
+System34                              250
+System35                              984
+System36                              16063
+System38                              100
+System39                              7
+System40                              501
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+Start command                         Recorder deployment
+CRC download                          ON
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         WPR 0552
+Internal code version                 13
+Hardware revision                     A
+Recorder size                         154 MByte
+Firmware version                      1.17 AST
+Velocity range                        NORMAL
+Serial output delay                   4095 msec
+Number of resends                     15
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       YES
+Compass                               YES
+Tilt sensor                           YES
+System 1                              0
+Head frequency                        1000 kHz
+Serial number                         WAV 5408
+Transformation matrix                 1.5774 -0.7891 -0.7891
+                                      0.0000 -1.3662 1.3662
+                                      0.3677 0.3677 0.3677
+Pressure sensor calibration           0 0 8695 16374
+Number of beams                       3
+System5                               25 25 25 0
+System7                               -15558 -228 10796 -15
+                                      -14880 -76 10650 30
+System8                               1 0 0
+                                      0 1 0
+                                      0 0 1
+System9                               1 0 0
+                                      0 -1 0
+                                      0 0 -1
+System10                              0 1 1 0
+System11                              0 1 -1 0
+System13                              11847 18809 19217 26842
+System14                              -20788 -371 12072 -56
+                                      -19148 -687 11835 91
+System15                              32767 0 731 0
+                                      32418 140 0 0
+                                      32767 470 -62 0
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              5461
+System18                              3600
+System19                              3600
+System20                              10000
+
+Processing configuration
+---------------------------------------------------------------------
+PdWaveBase Version                    3.38
+Processing method                     MLM-AST
+Wave Coordinate System                Beam
+Spectrum Selected                     Optimized
+Wave Direction                        From
+Beams Included                        1 2 3 4
+Number of Bins for Smoothing          64
+Start Frequency                       0.02 Hz
+End Frequency                         0.49 Hz
+Start Frequency AST                   0.02 Hz
+End Frequency AST                     0.99 Hz
+Frequency Step                        0.01 Hz
+Mounting Height                       0.50 m
+Directional Offset                    0.00 deg
+Pressure Offset                       0.00 dbar
+
+Current Data QC settings
+---------------------------------------------------------------------
+Low signal SNR threshold              3.0 dB
+Sidelobe rejection                    90.0% - SURFACE
+Beam rejection                        Use all beams
+Remove tilt effects                   ENABLED
+Compass offset                        0.0 deg
+Pressure Offset                       0.0 dbar
+Velocity variations rejection         5 #Std
+Echo spikes rejection                 70.0 dB
+
+Data file format

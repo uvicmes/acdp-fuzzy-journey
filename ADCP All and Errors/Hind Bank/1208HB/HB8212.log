@@ -1,0 +1,44 @@
+============================================================
+Deployment   : HB8212
+Current time : 7/31/2012 3:27:36 PM
+Start at     : 8/2/2012
+Comment:
+time set to UTC
+------------------------------------------------------------
+Profile interval      (s) : 300
+Number of cells           : 40
+Cell size             (m) : 1.00
+Blanking distance     (m) : 0.50
+Measurement load      (%) : 100
+Average interval      (s) : 60
+Power level               : HIGH
+Number of wave samples    : N/A
+Wave interval         (s) : N/A
+Wave sampling rate   (Hz) : N/A
+Wave cell size        (m) : N/A
+Compass upd. rate     (s) : 300
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+Serial output/TellTale    : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 14.0
+Battery utilization   (%) : 99.0
+Battery level         (V) : 12.0
+Recorder size        (MB) : 161
+Recorder free space  (MB) : 154.615
+Memory required      (MB) : 1.5
+Vertical vel. prec (cm/s) : 1.0
+Horizon. vel. prec (cm/s) : 3.1
+------------------------------------------------------------
+Instrument ID             : AQD 1432
+Head ID                   : AQP 1413
+Firmware version          : 1.15
+------------------------------------------------------------
+AquaPro Version 1.34
+Copyright (C) Nortek AS
+============================================================
